@@ -23,7 +23,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         line = line.strip()
         if line:
             channel_name, channel_url = line.split(',')
-            if '卫视' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name:
+            if '卫视' not in channel_name and 'QTV' not in channel_name and'TVB' not in channel_name and '购物' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '凤凰' not in channel_name and '翡翠' not in channel_name and '明珠' not in channel_name:
                 channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
@@ -107,7 +107,7 @@ with open("qita.txt", 'w', encoding='utf-8') as file:
     file.write('其他频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name:
+        if '卫视' not in channel_name and 'QTV' not in channel_name and'TVB' not in channel_name and '购物' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '凤凰' not in channel_name and '翡翠' not in channel_name and '明珠' not in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -125,7 +125,7 @@ with open("qita.m3u", 'w', encoding='utf-8') as file:
     #file.write('其他频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if 'CCTV' not in channel_name and '卫视' not in channel_name and '测试' not in channel_name:
+        if '卫视' not in channel_name and 'QTV' not in channel_name and'TVB' not in channel_name and '购物' not in channel_name and 'CCTV' not in channel_name and '测试' not in channel_name and '凤凰' not in channel_name and '翡翠' not in channel_name and '明珠' not in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -143,7 +143,7 @@ with open("qita.m3u", 'w', encoding='utf-8') as file:
 
 # 合并文件内容
 file_contents = []
-file_paths = ["cctv.txt", "weishi.txt", "qita.txt"]  # 替换为实际的文件路径列表
+file_paths = ["cctv.txt", "weishi.txt", "gangao.m3u", "qita.txt"]  # 替换为实际的文件路径列表
 for file_path in file_paths:
     with open(file_path, 'r', encoding="utf-8") as file:
         content = file.read()
