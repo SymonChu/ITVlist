@@ -1,4 +1,20 @@
 # 自动获取酒店源 #
+本项目复制于大佬的项目，用于自已学习用https://github.com/ssili126/tv 
+
+使用方法：
+
+1.电视盒子
+
+在看电视直播软件中直接输入以下任一地址即可：
+
+  https://ghproxy.net/https://raw.githubusercontent.com/SymonChu/ITVlist/main/itvlist.txt
+  https://raw.githubusercontent.com/SymonChu/ITVlist/main/itvlist.txt
+
+  精简自用
+  https://ghproxy.net/https://raw.githubusercontent.com/SymonChu/ITVlist/main/mytvlist.txt
+epg https://epg.112114.xyz/
+
+网友抓的源 https://mirror.ghproxy.com/raw.githubusercontent.com/XiaoZhang5656/xiaozhang-5656.github.io/main/iptv-live.txt
 
 使用方法：
 
