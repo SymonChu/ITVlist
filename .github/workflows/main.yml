@@ -2,7 +2,7 @@ name: itvlist
 
 on:
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '0 20 * * *'
 
 jobs:
   build:
@@ -28,6 +28,9 @@ jobs:
         
       - name: Run weishi
         run: python ${{ github.workspace }}/weishi.py
+    
+      - name: Run gangao
+        run: python ${{ github.workspace }}/gangao.py
         
       - name: Run qita
         run: python ${{ github.workspace }}/qita.py
