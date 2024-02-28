@@ -10,8 +10,6 @@
   https://ghproxy.net/https://raw.githubusercontent.com/SymonChu/iTVlist/main/itvlist.txt
   https://raw.githubusercontent.com/SymonChu/iTVlist/main/itvlist.txt
 
-  精简自用手工整理：
-  https://ghproxy.net/https://raw.githubusercontent.com/SymonChu/iTVlist/main/mytvlist.txt
   
 epg https://epg.112114.xyz/
 
