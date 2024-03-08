@@ -202,19 +202,9 @@ CCTV17,http://222.189.51.62:8888/newlive/live/hls/17/live.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 其它频道,#genre#
-CHC动作电影,http://112.235.200.153:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://112.235.200.61:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://112.235.202.127:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://112.235.202.190:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://112.235.202.250:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://112.235.200.153:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://112.235.200.195:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://112.235.200.61:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://112.235.200.85:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://112.235.202.127:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://123.182.214.134:8088/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://1.194.50.138:10086/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://219.135.208.218:8083/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
