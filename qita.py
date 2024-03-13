@@ -23,7 +23,7 @@ with open("itv.txt", 'r', encoding='utf-8') as file:
         line = line.strip()
         if line:
             channel_name, channel_url = line.split(',')
-            if 'CHC动作电影' in channel_name or 'CHC家庭影院' in channel_name or 'CHC高清电影' in channel_name or '嘉佳卡通' or '炫动卡通' or '金鹰卡通' or '优漫卡通' in channel_name:
+            if 'CHC动作电影' in channel_name or 'CHC家庭影院' in channel_name or 'CHC高清电影' in channel_name or '嘉佳卡通' in channel_name or '炫动卡通' in channel_name or '金鹰卡通' in channel_name or '优漫卡通' in channel_name:
                 channels.append((channel_name, channel_url))
 
 # 定义工作线程函数
@@ -107,7 +107,7 @@ with open("qita.txt", 'w', encoding='utf-8') as file:
     file.write('其他频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if 'CHC动作电影' in channel_name or 'CHC家庭影院' in channel_name or 'CHC高清电影' in channel_name or '嘉佳卡通' or '炫动卡通' or '金鹰卡通' or '优漫卡通' in channel_name:
+        if 'CHC动作电影' in channel_name or 'CHC家庭影院' in channel_name or 'CHC高清电影' in channel_name or '嘉佳卡通' in channel_name or '炫动卡通' in channel_name or '金鹰卡通' in channel_name or '优漫卡通' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
@@ -125,7 +125,7 @@ with open("qita.m3u", 'w', encoding='utf-8') as file:
     #file.write('其他频道,#genre#\n')
     for result in results:
         channel_name, channel_url, speed = result
-        if 'CHC动作电影' in channel_name or 'CHC家庭影院' in channel_name or 'CHC高清电影' in channel_name or '嘉佳卡通' or '炫动卡通' or '金鹰卡通' or '优漫卡通' in channel_name:
+        if 'CHC动作电影' in channel_name or 'CHC家庭影院' in channel_name or 'CHC高清电影' in channel_name or '嘉佳卡通' in channel_name or '炫动卡通' in channel_name or '金鹰卡通' in channel_name or '优漫卡通' in channel_name:
             if channel_name in channel_counters:
                 if channel_counters[channel_name] >= result_counter:
                     continue
