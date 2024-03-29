@@ -1,3 +1,2 @@
 港澳频道,#genre#
-TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠,http://124.90.208.38:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
