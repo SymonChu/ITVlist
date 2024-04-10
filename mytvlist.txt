@@ -178,12 +178,30 @@ CCTV17,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/8888888
 凤凰卫视,http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?
 
 其它频道,#genre#
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
-CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+CHC家庭影院,http://pi.0472.org/tv/cbn.php?id=chcjtyyHD
+CHC家庭影院, http://pi.0472.org/tv/cbn.php?id=chcjtyyHD
+CHC家庭影院,http://123.187.46.90:65000/hls/30/index.m3u8
+CHC家庭影院, http://123.187.46.90:65000/hls/30/index.m3u8
+CHC家庭影院, http://59.44.192.82:65000/hls/30/index.m3u8
+CHC家庭影院,http://59.44.192.82:65000/hls/30/index.m3u8
+CHC家庭影院,https://epg.pw/stream/813b902c76009baec09d0d0a2b8300ff7ad473e7e88af74870ec04eee46694b0.m3u8
+CHC家庭影院, https://epg.pw/stream/813b902c76009baec09d0d0a2b8300ff7ad473e7e88af74870ec04eee46694b0.m3u8
+CHC家庭影院, https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
+CHC家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
+CHC动作电影,https://epg.pw/stream/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
+CHC动作电影, https://epg.pw/stream/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
+CHC动作电影,https://epg.pw/stream/02a582fc67bfff3762422afd2afafd15a346db899ab08ec26b328ce146665b2e.m3u8
+CHC动作电影, https://epg.pw/stream/02a582fc67bfff3762422afd2afafd15a346db899ab08ec26b328ce146665b2e.m3u8
+CHC高清电影, http://pi.0472.org/tv/cbn.php?id=chcgqdyHD
+CHC高清电影,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD
+CHC高清电影,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+CHC高清电影, http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+CHC高清电影, https://epg.pw/stream/0fc644caf6205b2dd46b84766084d0a90eff010686f75b2fd646bdcf1943883d.m3u8
+CHC高清电影, https://epg.pw/stream/d395483979a7e9025cb58bb0edb1acc4674620419d928202014f223505c2a693.m3u8
+CHC高清电影,https://epg.pw/stream/0fc644caf6205b2dd46b84766084d0a90eff010686f75b2fd646bdcf1943883d.m3u8
+CHC高清电影,https://epg.pw/stream/d395483979a7e9025cb58bb0edb1acc4674620419d928202014f223505c2a693.m3u8
+CHC动作电影, http://pi.0472.org/tv/cbn.php?id=chcdzdyHD
+CHC动作电影,http://pi.0472.org/tv/cbn.php?id=chcdzdyHD
 
 卡酷少儿,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 黑莓动画,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
